@@ -1,0 +1,12 @@
+P3DFFT++ C test program. Running on 256 cores
+GitVersion = v3.0.0
+GitDate = 2019-12-02
+Executable, test3d_r2c_float.c, was compiled with Intel(R) C++ gcc 4.8.5 mode (version 1800) on Jan  8 2020 at 10:21:07
+P3DFFT test, 3D wave input, 3D real-to-complex FFT
+Double precision
+ (1024 1024 1024) grid
+ 2 proc. dimensions
+10 repetitions
+Using two-dimensional decomposition
+Reading proc. grid from file dims
+Using processor grid 64 x 4

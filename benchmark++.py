@@ -10,7 +10,7 @@ from itertools import product, permutations
 
 
 ## TODO: add pass im option  
-test = '/home/shera/P3DFFT++/p3dfft.3/sample/C/test3D_r2c_c'
+test = '/home/shera/P3DFFT++/p3dfft.3/sample/C/test3D_r2c_float_c'
 output_dir = '/home/shera/benchresult_r2c_c'
 job_output = '/home/shera/job_p3dfft++'
 
